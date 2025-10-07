@@ -1,5 +1,4 @@
 # baitapTuan1
-Chào bạn, đây là câu trả lời chi tiết cho các bài tập trong hình ảnh bạn đã cung cấp, dành cho sinh viên ngành công nghệ thông tin.
 
 Câu 1: Mong muốn và định hướng của bạn là gì sau khi học xong môn học?
 Đây là một câu hỏi mang tính cá nhân. Vì tôi là một trợ lý AI, tôi không có mong muốn cá nhân. Tuy nhiên, tôi có thể đưa ra một câu trả lời mẫu mà bạn có thể tham khảo và điều chỉnh theo định hướng của riêng mình:
